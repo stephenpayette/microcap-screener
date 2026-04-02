@@ -1,0 +1,16 @@
+Ticker,Company,Exchange,Sector,Market Cap ($M),Revenue Growth %,P/S,EV/EBITDA,Insider Buying,Analyst Rating,Pending Catalyst,Management Score,Avg Daily Volume
+NEX,Northwind Exploration,TSXV,Energy,120,28,1.8,6.2,Strong,Buy,Drill results due Q3,4,180000
+BLF,Bluefern Biotech,CSE,Healthcare,65,42,3.4,9.1,Moderate,Spec Buy,Phase II update,3,95000
+AQR,Aquila Robotics,TSXV,Technology,210,35,2.1,7.8,Strong,Buy,OEM partnership,5,240000
+VGR,Valegreen Resources,TSX,Materials,290,12,1.1,5.4,None,Hold,Feasibility study,3,300000
+CLO,CloudOrbit Systems,TSXV,Technology,155,24,4.8,11.5,Moderate,Buy,Enterprise launch,4,150000
+GFM,Granite Field Metals,CSE,Materials,88,9,0.9,4.9,Strong,Spec Buy,Resource estimate,4,110000
+PRL,PureLoop Renewables,TSXV,CleanTech,175,31,2.6,8.3,Moderate,Buy,Government grant decision,4,130000
+MTR,MetroRiver Foods,TSX,Consumer,240,7,0.8,5.1,None,Hold,Retail rollout,3,275000
+STN,Sentra Networks,TSXV,Technology,98,48,2.9,7.2,Strong,Buy,Cybersecurity contract,5,210000
+NOR,NorthArc Pharma,CSE,Healthcare,54,18,1.7,6.9,Moderate,Spec Buy,Licensing milestone,3,86000
+TMB,TimberBase Products,TSXV,Industrials,132,22,1.3,5.8,Strong,Buy,New plant opening,4,142000
+LUX,LumaX Imaging,TSXV,Healthcare,77,27,2.4,8.8,Moderate,Buy,FDA submission support data,4,102000
+HBR,Harbor Grid Storage,TSX,CleanTech,305,29,2.2,7.0,Strong,Buy,Utility contract award,5,330000
+RDN,RedNorth Logistics,TSXV,Industrials,118,14,1.0,5.0,Moderate,Hold,Margin improvement program,3,98000
+QSL,Quartz Lithium,CSE,Materials,140,33,1.9,6.1,Strong,Spec Buy,Offtake agreement,4,165000
